@@ -1,1 +1,1 @@
-Sitemap: https://inieuweboer.github.io/fastblog/sitemap.xml
+Sitemap: https://home.ismani.dev/fastblog/sitemap.xml
