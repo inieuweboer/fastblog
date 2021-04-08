@@ -1,1 +1,1 @@
-Sitemap: https://home.ismani.dev/fastblog/sitemap.xml
+Sitemap: https://home.ismani.dev/sitemap.xml
